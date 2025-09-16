@@ -48,6 +48,9 @@ A full-stack web application that allows users to **create events** and share th
 ```bash
 git clone https://github.com/LefterisKatsamagkas/Registration-System.git
 cd registration-system
+```
+
+---
 
 ## License
 
