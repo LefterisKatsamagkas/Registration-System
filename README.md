@@ -46,5 +46,5 @@ A full-stack web application that allows users to **create events** and share th
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/registration-system.git
+git clone https://github.com/LefterisKatsamagkas/Registration-System.git
 cd registration-system
