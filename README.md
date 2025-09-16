@@ -58,6 +58,9 @@ cd registration-system
 ![Home Page](assets/Screenshot%202025-09-16%20113804.png)
 
 ### Organizer's View
+![Additional Screenshot](assets/Screenshot%202025-09-16%20114102.png)
+
+### Client View
 ![Organizer View](assets/Screenshot%202025-09-16%20113901.png)
 
 ### Client View (Event Details)
@@ -65,9 +68,6 @@ cd registration-system
 
 ### Client Payment View
 ![Payment View](assets/Screenshot%202025-09-16%20114025.png)
-
-### Additional View
-![Additional Screenshot](assets/Screenshot%202025-09-16%20114102.png)
 
 ---
 
