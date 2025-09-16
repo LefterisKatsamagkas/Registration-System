@@ -52,6 +52,24 @@ cd registration-system
 
 ---
 
+## Screenshots / Demo
+
+Here are some screenshots of the Registration System:
+
+### 1. Home Page
+![Home Page](assets/Screenshot%202025-09-16%20113804.png)
+
+### 2. Organizer's View (Event Management)
+![Organizer View](assets/Screenshot%202025-09-16%20113804-2.png)
+
+### 3. Client View (Event Details)
+![Client View](assets/Screenshot%202025-09-16%20113804-3.png)
+
+### 4. Client View (Payment with Stripe)
+![Payment View](assets/Screenshot%202025-09-16%20113804-4.png)
+
+---
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
