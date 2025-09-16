@@ -9,11 +9,8 @@ A full-stack web application that allows users to **create events** and share th
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
 3. [Setup](#setup)
-4. [Environment Variables](#environment-variables)
-5. [Usage](#usage)
-6. [Screenshots / Demo](#screenshots--demo)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Screenshots / Demo](#screenshots--demo)
+5. [License](#license)
 
 ---
 
